@@ -1,0 +1,84 @@
+{
+  "main": {
+    "name": "Laadi Hamdou",
+    "occupation": "Aspiring Software Developer and Ethical Hacker",
+    "description": "Cyber Security and Software development enthusiast. Love working with python and java and using SQL and git. Competent in using TDD to create efficient software. A goal driven person that thrives of learning more about my passion.",
+    "contactmessage": "Give me a message on LinkedIn!",
+    "email": "lhamdouuni@gmail.com",
+    "phone": "07869841939",
+    "website": "https://www.linkedin.com/in/laadi-hamdou-97a386199/",
+    "resumedownload": "https://www.linkedin.com/in/laadi-hamdou-97a386199/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/laadi-hamdou-97a386199/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nerd_like_me7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/lhamdou777",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Royal Holloway University",
+        "degree": "Computer Science (Information Security)",
+        "graduated": "2022",
+        "description": "This university grew my love of computer science and has taught me so many new concepts and skills. To be exact, they enabled me to understand test driven development, Java, Maven, and discrete mathematics. They also taught me that the field is in fact based alot around your ability to learn things and implement them as quick as possible."
+      },
+      {
+        "school": "St Patricks College",
+        "degree": "HND Information Systems Engineering.",
+        "graduated": "2019",
+        "description": "Here is where I found my passion for coding. They introduced me to Python, Object Oriented Programming, Software Design and many more concepts and skills."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Well done! This code would look good in any code base.",
+        "user": "Prof Dave Cohen"
+      }
+    ]
+  }
+}
